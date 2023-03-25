@@ -1,5 +1,5 @@
 # 💫 About Me:
-Master's student in Applied Computer Science at Dalhousie University with a focus on web development and a keen interest in staying up-to-date with the latest technologies.<br><br>Experienced in programming languages such as Python, JavaScript, TypeScript, Java, and C++ and proficient in web development frameworks including ReactJs and NextJs.<br><br>Dedicated and hardworking learner with a strong foundation in web development seeking opportunities to apply skills and gain experience as a web developer.<br><br>Interested in working for a dynamic and innovative company in the field of web development.<br>
+* Master's student in Applied Computer Science at Dalhousie University with a focus on web development and a keen interest in staying up-to-date with the latest technologies.<br><br>* Experienced in programming languages such as Python, JavaScript, TypeScript, Java, and C++ and proficient in web development frameworks including ReactJs and NextJs.<br><br>* Dedicated and hardworking learner with a strong foundation in web development seeking opportunities to apply skills and gain experience as a web developer.<br><br>* Interested in working for a dynamic and innovative company in the field of web development.<br>
 
 
 ## 🌐 Socials:
@@ -13,6 +13,3 @@ Master's student in Applied Computer Science at Dalhousie University with a focu
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umang-20&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=umang-20&icon=1&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
